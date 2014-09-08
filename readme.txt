@@ -5,3 +5,4 @@ Git tracks changes of files.
 hehe
 Creating a new branch is quick.
 vae
+Creating a new branch is quick AND simple.
